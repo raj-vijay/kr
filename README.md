@@ -1,6 +1,6 @@
 # Knowledge Representation
 
-The Machine Learning Library hosts my code base for the various exercises and the real world problems pertaining to Knowledge Representation, that I have solved and completed as part of my work on Artificial Intelligence.
+The Knowledge Representation Library hosts my code base for the various exercises and the real world problems pertaining to Knowledge Representation, that I have solved and completed as part of my work on Artificial Intelligence.
 
 Knowledge Representation is a field of Artificial Intelligence that focuses on the representation of domain specific knowledge in a form that can be utilised by computer systems. Importantly, this in the domain of Artificial Intelligence that is concerned with thinking, and how thinking can contribute to intelligent behavior.
 
