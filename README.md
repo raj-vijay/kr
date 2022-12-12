@@ -9,6 +9,6 @@ Knowledge Representation is a field of Artificial Intelligence that focuses on t
 
 The repository for Knowledge Representation is like a folder or storage space that contains all the files such as code, documentation, images, and more related to real-world knowledge representation problems. 
 
-It also tracks every change that I or my team makes to each file, and it is always possible go back to previous versions of we make any mistakes.
+It also tracks every change that I or my team makes to each file, and it is always possible go back to previous versions.
 
 So again, feel free, be more human, to make mistakes and to learn from them.
